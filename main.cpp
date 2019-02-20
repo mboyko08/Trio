@@ -19,7 +19,7 @@ int main()
   return 0;
 }
 
-void sortDescending(int &first, int second, int &third)
+void sortDescending(int &first, int &second, int &third)
 {
   if( first < third )
   {
